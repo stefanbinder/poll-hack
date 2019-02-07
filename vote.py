@@ -1,5 +1,5 @@
 import requests, re, json, time, random
-requests.packages.urllib3.disable_warnings()
+#requests.packages.urllib3.disable_warnings()
 
 base_url = "https://poll.fm/"
 redirect = ""
